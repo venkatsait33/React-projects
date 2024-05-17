@@ -1,0 +1,56 @@
+{
+  "voters": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "voted": true
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "password": "user123",
+      "role": "user",
+      "voted": false
+    },
+    {
+      "id": "472e",
+      "email": "sai1@g.com",
+      "password": "12345678",
+      "role": "user",
+      "voted": true
+    },
+    {
+      "id": "0b13",
+      "email": "sai2@g.com",
+      "password": "123",
+      "role": "user",
+      "voted": true
+    },
+    {
+      "id": "0e36",
+      "email": "sai3@g.com",
+      "password": "1234",
+      "role": "user",
+      "voted": true
+    }
+  ],
+  "participants": [
+    {
+      "id": "1",
+      "name": "Participant 1",
+      "votes": 3
+    },
+    {
+      "id": "2",
+      "name": "Participant 2",
+      "votes": 0
+    },
+    {
+      "id": "638f",
+      "name": "venkat",
+      "votes": 2
+    }
+  ]
+}

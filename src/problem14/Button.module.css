@@ -1,0 +1,62 @@
+/* Button.module.css */
+.button {
+  /* Your default button styles */
+  border: 1px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  /* Add more styles for the red color scheme */
+}
+
+.yellow {
+  background-color: yellow;
+  /* Add more styles for the yellow color scheme */
+}
+
+.orange {
+  background-color: orange;
+  /* Add more styles for the orange color scheme */
+}
+
+.green {
+  background-color: green;
+  /* Add more styles for the green color scheme */
+}
+
+.sm {
+  /* Add styles for small size */
+}
+
+.md {
+  /* Add styles for medium size */
+}
+
+.lg {
+  /* Add styles for large size */
+}
+
+.xl {
+  /* Add styles for extra-large size */
+}
+
+.solid {
+  /* Add styles for solid variant */
+}
+
+.ghost {
+  /* Add styles for ghost variant */
+}
+
+.outline {
+  /* Add styles for outline variant */
+}
