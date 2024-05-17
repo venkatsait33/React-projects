@@ -1,4 +1,4 @@
-import { SET_THEME } from "../redux/action";
+import { SET_THEME } from "./action";
 
 const initialState = {
   theme: "light",
